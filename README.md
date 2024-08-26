@@ -1,6 +1,6 @@
 # Movie-Recommendation-App
 
-Welcome to the Movie Recommender App! This application is built using Python and Streamlit, and it allows users to get personalized movie recommendations based on their selected movie. The app leverages movie data, user ratings, and The Movie Database (TMDb) API to provide detailed recommendations, movie posters, summaries, and cast information. This webapp is now [live](https://movie-recmnd.streamlit.app).
+Welcome to the Movie Recommender App! This application is built using Python and Streamlit, and it allows users to get personalized movie recommendations based on their selected movie. The app leverages movie data, user ratings, and The Movie Database (TMDb) API to provide detailed recommendations, movie posters, summaries, and cast information. This webapp is now [live](https://movie-recmnd.streamlit.app) on the streamlit community cloud.
 
 ## Features
 - Movie Search: Type and select a movie from a dropdown list to search for similar movies.
